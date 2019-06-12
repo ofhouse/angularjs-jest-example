@@ -21,6 +21,7 @@ Since this is a proof-of-concept for an much bigger application, there are some 
 - `angular` has to be available as global variable
 - `moment` has to be available as global variable
 - Templates are external `.html`-modules which are imported by webpack
+- Requests should use `$httpBackend` mock
 
 ## Author
 

@@ -1,6 +1,7 @@
 describe('timer component', () => {
   let $compile;
   let $rootScope;
+
   beforeEach(angular.mock.module('myApp'));
 
   beforeEach(inject(function(_$compile_, _$rootScope_) {
