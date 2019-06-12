@@ -1,5 +1,3 @@
-const angular = window.angular;
-
 describe('timer component', () => {
   let $compile;
   let $rootScope;
