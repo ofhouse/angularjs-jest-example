@@ -5,7 +5,6 @@ import template from './timer.template.html';
 class timerController {
   $onInit() {
     this.time = moment(new Date());
-    console.log('moment', moment)
   }
 }
 
